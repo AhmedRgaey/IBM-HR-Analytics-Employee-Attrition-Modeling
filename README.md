@@ -17,6 +17,15 @@ So i start look throught this dataset to build up a logistic regression model to
 ## :file_folder: Dataset
 The dataset used can be downloaded here [Click to Download](https://github.com/AhmedRgaey/IBM-HR-Analytics-Employee-Attrition-Modeling/blob/main/Data/IBM%20Attrition%20Data.csv)
 
+## :camera_flash: Some Screenshots
+![Age count plot](https://user-images.githubusercontent.com/107196076/209898078-f051271c-4ad9-46ed-ba32-bcce8d0c5619.png)
+
+![Attration VS Age](https://user-images.githubusercontent.com/107196076/209898132-f4f1d7d4-a6ad-4f16-83c3-552bf48f2e6d.png)
+
+![Distribution of employees by the education field](https://user-images.githubusercontent.com/107196076/209898171-6a3334e5-8c7e-42b6-8426-fcd85a099087.png)
+
+![correlation between all features](https://user-images.githubusercontent.com/107196076/209898190-243e8b7f-f50f-4ada-8735-c82dbc139fb4.png)
+
 ## :mag: Data contents
 
 <ol>
